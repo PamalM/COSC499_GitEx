@@ -1,2 +1,12 @@
 # COSC499_GitEx
-Repo for COSC 499-Computer Vision; Github Ex. # 1 
+
+**Branch Explanations:**
+
+* *master branch:* 
+  * *Sorting Integer array*
+  
+* *branch1:* 
+  * *Sorting String array*
+  
+* *branch2:* 
+  * *Min/Max/Average of Integer array*
