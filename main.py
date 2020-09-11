@@ -17,3 +17,6 @@ print('\nThe array has been initialized:\n' + str(array))
 
 # View initialized array after sorting.
 print('\nInteger array after sorting:\n' + str(sorted(array)))
+
+print('hello world')
+print('123')
