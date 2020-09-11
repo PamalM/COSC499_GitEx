@@ -13,8 +13,8 @@ for x in range(1, 6):
     array.append(element)
 
 # View initialized array before sorting.
-print('\nThe array has been initialized:\n' + str(array))
+print('\nThe array has been initialized:\n', str(array))
 
 # View initialized array after sorting.
-print('\nString array after sorting:\n' + str(sorted(array)))
+print('\nString array after sorting:\n', str(sorted(array)))
 
