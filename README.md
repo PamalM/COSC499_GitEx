@@ -1,7 +1,7 @@
 # COSC499_GitEx
 
 * Link to Video Explanation:
-  * www.google.ca
+  * https://drive.google.com/file/d/1_3HMIrL8eiaWN_D1Aq__rBH4AqIzmkgy/view?usp=sharing
 
 Branch name | Desc.
 ------------ | ------------- 
